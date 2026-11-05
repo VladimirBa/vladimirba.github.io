@@ -1,0 +1,31 @@
+Terms of Service
+
+Last updated: November 2026
+
+1. Acceptance of Terms
+By downloading, installing, or playing any casual mobile games published by Studio 3T ("we", "us", or "our"), including Tic Tac Toe and Hex Tic Tac Toe, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our applications.
+
+2. License to Use
+We grant you a personal, non-exclusive, non-transferable, revocable license to download and play our games for personal, non-commercial entertainment purposes on your mobile device.
+
+3. Intellectual Property Rights
+All content, graphics, source code, visual design, audio elements, and trademarks associated with Studio 3T games are the exclusive property of Studio 3T. You may not copy, modify, distribute, reverse engineer, or create derivative works based on our applications without prior written permission.
+
+4. In-Game Gameplay & Ad-Supported Features
+Our games may include gameplay assistance features (such as "Undo" or extra moves). Certain features may be made available for free up to a defined limit, after which access to additional features may require viewing third-party rewarded advertisements. We reserve the right to modify in-game mechanics and limits at any time without prior notice.
+
+5. Third-Party Advertisements & Services
+Our games are supported by third-party advertisements (such as Google AdMob). We are not responsible for the content, privacy practices, or availability of third-party ad networks or services. Interacting with third-party advertisements is at your own risk.
+
+6. Disclaimer of Warranties
+Our games are provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind, whether express or implied. We do not guarantee that the applications will be completely error-free, uninterrupted, or safe from technical disruptions.
+
+7. Limitation of Liability
+To the maximum extent permitted by applicable law, Studio 3T shall not be liable for any indirect, incidental, consequential, or special damages arising out of or in connection with your use or inability to use our games.
+
+8. Changes to Terms
+We reserve the right to update or modify these Terms of Service at any time. Any changes will be effective immediately upon posting the updated text on this page.
+
+9. Contact Us
+If you have any questions or inquiries regarding these Terms of Service, you can contact us at:
+Email: vonnab.e.v@gmail.com
